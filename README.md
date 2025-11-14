@@ -55,6 +55,7 @@ dart run sumplier_madness.dart
 Dart-Projects/
 │── sumplier.dart
 │── functionfusioner.dart
+|── biodata.dart
 │── README.md
 ```
 🌱 Learning Goals
@@ -65,18 +66,6 @@ These programs help improve:
 ✔ Problem-solving
 ✔ Console-based program design
 ✔ Function-based modular coding
-
-🚀 Upcoming Additions
-
-String utilities
-
-Pattern generators
-
-Mini logical games
-
-Beginner algorithm challenges
-
-Flutter-friendly Dart utilities
 
 🙌 Contributions
 
